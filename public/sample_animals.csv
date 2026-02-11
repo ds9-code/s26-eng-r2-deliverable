@@ -1,0 +1,129 @@
+name,speed,diet
+African Elephant,25,herbivore
+African Lion,58,carnivore
+African Wild Dog,56,carnivore
+Alpine Ibex,60,herbivore
+American Bison,48,herbivore
+Arabian Horse,65,herbivore
+Arabian Oryx,55,herbivore
+Arctic Fox,60,omnivore
+Asian Elephant,40,herbivore
+Atlantic Puffin,40,carnivore
+Atlantic Spotted Dolphin,52,carnivore
+Australian Fur Seal,32,carnivore
+Aye-Aye,32,omnivore
+Baird's Tapir,48,herbivore
+Bald Eagle,120,carnivore
+Banded Palm Civet,16,omnivore
+Barbary Macaque,30,omnivore
+Bearded Dragon,52,omnivore
+Bengal Fox,40,omnivore
+Bengal Tiger,65,carnivore
+Black Rhinoceros,56,herbivore
+Blue Jay,32,omnivore
+Blue Whale,40,herbivore
+Blue-Footed Booby,30,carnivore
+Bonobo,50,omnivore
+Bornean Orangutan,52,omnivore
+Bottlenose Dolphin,37,carnivore
+Boxer Dog,64,omnivore
+Brown Bear,48,omnivore
+Burmese Python,2,carnivore
+Capybara,35,herbivore
+Cheetah,112,carnivore
+Chimpanzee,40,omnivore
+Coquerel's Sifaka,37,herbivore
+Dhole,56,carnivore
+Dingo,56,carnivore
+Eastern Gorilla,40,herbivore
+Echidna,36,insectivore
+Emperor Penguin,5,carnivore
+Emperor Tamarin,32,omnivore
+European Hedgehog,5,omnivore
+Fennec Fox,32,omnivore
+Fire Salamander,0.8,carnivore
+Flying Fox,45,herbivore
+Fossa,46,carnivore
+Frilled Lizard,29,omnivore
+Galápagos Penguin,20,carnivore
+Galápagos Tortoise,0.4,herbivore
+Gaur,35,herbivore
+Gerenuk,75,herbivore
+Gharial,32,carnivore
+Giant Pacific Octopus,24,carnivore
+Giant Panda,32,herbivore
+Glass Frog,0.8,insectivore
+Goblin Shark,2,carnivore
+Golden Lion Tamarin,10,omnivore
+Great White Shark,56,carnivore
+Green Anaconda,20,carnivore
+Green Sea Turtle,35,herbivore
+Grevy's Zebra,64,herbivore
+Harpy Eagle,50,carnivore
+Hippopotamus,27,herbivore
+Humpback Whale,25,omnivore
+Iberian Lynx,75,carnivore
+Indri,25,herbivore
+Japanese Macaque,30,omnivore
+Kakapo,2,herbivore
+Kangaroo Rat,16,herbivore
+King Cobra,20,carnivore
+Kiwi,8,omnivore
+Komodo Dragon,20,carnivore
+Leaf-tailed Gecko,0.9,insectivore
+Lemur,26,omnivore
+Lyrebird,0.025,omnivore
+Maned Wolf,56,omnivore
+Mantis Shrimp,40,carnivore
+Markhor,52,herbivore
+Meerkat,32,omnivore
+Mountain Gorilla,40,herbivore
+Narwhal,45,carnivore
+Okapi,57,herbivore
+Orangutan,9,omnivore
+Pangolin,32,insectivore
+Patagonian Mara,30,herbivore
+Platypus,6,omnivore
+Polar Bear,40,carnivore
+Pronghorn,88,herbivore
+Pufferfish,8,carnivore
+Quokka,24,herbivore
+Red Fox,48,omnivore
+Red Kangaroo,56,herbivore
+Red Panda,0.3,herbivore
+Secretary Bird,28,carnivore
+Serval,44,carnivore
+Shortfin Mako Shark,45,carnivore
+Snow Leopard,50,carnivore
+Snowy Owl,80,carnivore
+Spectacled Bear,45,omnivore
+Sperm Whale,60,carnivore
+Spider Monkey,45,omnivore
+Spotted Hyena,60,carnivore
+Squirrel Monkey,30,omnivore
+Sumatran Orangutan,35,omnivore
+Sun Bear,44,omnivore
+Tapir,48,herbivore
+Tarsier,45,insectivore
+Tasmanian Devil,16,carnivore
+Thorny Devil,0.24,insectivore
+Three-Toed Sloth,20,herbivore
+Tiger,28,carnivore
+Tree Kangaroo,30,herbivore
+Tufted Puffin,17,carnivore
+Uakari,20,omnivore
+Vampire Bat,32,carnivore
+Vulture,32,carnivore
+Western Gorilla,40,herbivore
+Western Lowland Gorilla,40,herbivore
+Whale Shark,70,omnivore
+White Rhinoceros,45,herbivore
+White Tiger,22,carnivore
+Wild Boar,20,omnivore
+Wildebeest,47,herbivore
+Wolf,45,carnivore
+Wolverine,63,omnivore
+Wombat,20,herbivore
+Yak,24,herbivore
+Yellow-Eyed Penguin,25,carnivore
+Zebra,25,herbivore
