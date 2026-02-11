@@ -31,8 +31,8 @@ export default function DeleteSpeciesDialog({ species }: { species: Species }) {
     setIsDeleting(true);
 
     const supabase = createBrowserSupabaseClient();
-    const { error } = await supabase
-      .from("species")
+    const { error } = await (supabase
+      .from("species") as any)
       .delete()
       .eq("id", species.id);
 

@@ -79,8 +79,8 @@ export default function EditSpeciesDialog({ species }: { species: Species }) {
 
   const onSubmit = async (input: FormData) => {
     const supabase = createBrowserSupabaseClient();
-    const { error } = await supabase
-      .from("species")
+    const { error } = await (supabase
+      .from("species") as any)
       .update({
         scientific_name: input.scientific_name,
         common_name: input.common_name,

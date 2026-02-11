@@ -154,7 +154,7 @@ export default function AnimalSpeedGraph() {
         .attr("x", 20)
         .attr("y", i * 25 + 12)
         .attr("font-size", "12px")
-        .text(legendLabels[i]);
+        .text(legendLabels[i] || "");
     });
   }, [animalData]);
 

@@ -44,8 +44,8 @@ export default function ProfileForm({ profile }: { profile: Profile }) {
 
   // Set default values for the form (on open) to the existing profile data which was passed in as a prop
   const defaultValues = {
-    username: profile.display_name,
-    bio: profile.biography,
+    username: profile.display_name || "",
+    bio: profile.biography || "",
   };
 
   type ProfileFormValues = z.infer<typeof profileFormSchema>;
@@ -62,9 +62,12 @@ export default function ProfileForm({ profile }: { profile: Profile }) {
   const onSubmit = async (data: ProfileFormValues) => {
     // Instantiate Supabase client (for client components) and make update based on input data
     const supabase = createBrowserSupabaseClient();
-    const { error } = await supabase
-      .from("profiles")
-      .update({ biography: data.bio, display_name: data.username })
+    const { error } = await (supabase
+      .from("profiles") as any)
+      .update({ 
+        biography: data.bio || null, 
+        display_name: data.username || null 
+      })
       .eq("id", profile.id);
 
     // Catch and report errors from Supabase and exit the onSubmit function with an early 'return' if an error occurred.
